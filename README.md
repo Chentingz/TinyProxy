@@ -9,5 +9,5 @@ A tiny web proxy for windows.
 ## Dependencies 
 - WinSock2.0
 
-## Developing Environments 
+## Developing Environment 
 - C with VC++6.0 on Windows 7
